@@ -1,0 +1,18 @@
+{
+	"home_page": "Page D'accueil",
+	"personal_info": "Renseignements Personnels",
+	"name": "Nom",
+	"name_hint": "Entrez votre nom",
+	"email": "Email",
+	"email_hint": "Entrer votre Email",
+	"date_of_birth": "Date de naissance",
+	"required_field": "Champs requis",
+	"submit_info": "Soumettre des informations",
+	"about_us": "À propos de nous",
+	"settings": "Paramètres",
+	"change_language": "Changer de langue",
+	"about": "Quelques informations sur nous",
+	"about_page": "À propos de nous",
+	"not_found_page": "Page introuvable",
+	"settings_page": "Page des paramètres"
+}
